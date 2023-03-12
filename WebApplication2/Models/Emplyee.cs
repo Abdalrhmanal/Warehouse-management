@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace WebApplication2.Models;
+
+public partial class Emplyee
+{
+    public int Id { get; set; }
+
+    public string? FirstName { get; set; }
+
+    public string? LastName { get; set; }
+
+    public string? Father { get; set; }
+
+    public string? NumberPhone { get; set; }
+
+    public int? BaseSalary { get; set; }
+
+    public int? CityId { get; set; }
+}
