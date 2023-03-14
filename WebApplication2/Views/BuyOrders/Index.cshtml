@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Index";
+    Layout = "_Layout";
 }
 
 <h1>Index</h1>
@@ -9,63 +10,117 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.OrderDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.BeforDiscountTotal)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.AfterDiscount)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DiscountPercent)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DiscountValue)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.CostumerId)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.EmplyeeId)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.OrderDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.BeforDiscountTotal)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.AfterDiscount)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DiscountPercent)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DiscountValue)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CostumerId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.EmplyeeId)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<div class="container" style="padding-left:10%;margin-left:7%;">
+   
+    <!-- Recent Sales -->
+    <div class="col-12">
+        <div class="card recent-sales overflow-auto">
+
+            <div class="filter">
+                <a class="icon" href="#" data-bs-toggle="dropdown"><i class="bi bi-three-dots"></i></a>
+                <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow">
+                    <li class="dropdown-header text-start">
+                        <h6>Filter</h6>
+                    </li>
+
+                    <li><a class="dropdown-item" href="#">Today</a></li>
+                    <li><a class="dropdown-item" href="#">This Month</a></li>
+                    <li><a class="dropdown-item" href="#">This Year</a></li>
+                </ul>
+            </div>
+
+            <div class="card-body">
+                <h5 class="card-title">Recent Sales <span>| Today</span></h5>
+
+                <table class="table table-borderless datatable">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Id)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.OrderDate)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.BeforDiscountTotal)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.AfterDiscount)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.DiscountPercent)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.DiscountValue)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CostumerId)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.EmplyeeId)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <th scope="row">
+                                    <a href="#">
+                                        @Html.DisplayFor(modelItem => item.Id)
+                                    </a>
+                                </th>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.OrderDate)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.BeforDiscountTotal)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.AfterDiscount)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DiscountPercent)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DiscountValue)
+                                </td>
+                                <td>
+                                    <span class="badge bg-success">
+                                        @Html.DisplayFor(modelItem => item.CostumerId)
+                                    </span>
+                                </td>
+                                <td>
+                                    <span class="badge bg-success">
+                                        @Html.DisplayFor(modelItem => item.EmplyeeId)
+                                    </span>
+                                </td>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+    </div><!-- End Recent Sales -->
+</div>
+
+                            <footer id="footer" class="footer">
+    <div class="copyright">
+        &copy; Copyright <strong><span>Mangment</span></strong>. All Rights Reserved
+    </div>
+    <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/ -->
+        Designed by <a href="https://google.com/">Free Engineers</a>
+    </div>
+</footer><!-- End Footer -->

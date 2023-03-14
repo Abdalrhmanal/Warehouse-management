@@ -9,8 +9,108 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\forms\\Readme.txt"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\forms\\contact.php",
+      "PackagePath": "staticwebassets\\forms\\contact.php"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\img\\card.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\img\\messages-1.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\img\\messages-2.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\img\\messages-3.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\news-4.jpg",
+      "PackagePath": "staticwebassets\\img\\news-4.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\news-5.jpg",
+      "PackagePath": "staticwebassets\\img\\news-5.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\not-found.svg",
+      "PackagePath": "staticwebassets\\img\\not-found.svg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slides-1.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\img\\slides-2.jpg"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\img\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\img\\slides-3.jpg"
     },
     {
       "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\js\\site.js",
@@ -243,6 +343,178 @@
     {
       "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ar.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\et.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\et.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\fa.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\hu.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\lv.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\apexcharts\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\bower.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\composer.json"
+    },
+    {
+      "Id": "Z:\\UIRS\\2023-Sisson-Fall\\Development Apps Web\\Projectev\\WebApplication2\\WebApplication2\\wwwroot\\vendor\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\package.json"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",

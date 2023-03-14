@@ -1,7 +1,7 @@
 ﻿@using Microsoft.AspNetCore.Identity
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
-
+<div class="container" style="padding-left:40%;margin-left:7%;">
 <ul class="navbar-nav">
 @if (SignInManager.IsSignedIn(User))
 {
@@ -24,3 +24,4 @@ else
     </li>
 }
 </ul>
+</div>
